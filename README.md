@@ -1,0 +1,2 @@
+# bank_client_Churn_prediction
+Прогнозирование оттока клиентов банка
